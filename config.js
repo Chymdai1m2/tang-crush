@@ -5,7 +5,7 @@ Mún gửi cho e mong rằng e chấp nhận
 Và hãy trả lời thật lòng nha bời vì a rất là iu e 
 Và hãy iu mỗi riêng a thui nha`,
     btnIntro: 'hihi chào chồng iu nha ',
-    title: 'A đã iu e ngay lần đầu tiên , hihi mặc dù nói v hơi kì , nhưng là thật đó, Em có iu a không ?  😙',
+    title: 'A đã iu e ngay lần đầu tiên đó , hihi mặc dù nói v hơi kì , nhưng là thật đó, Em có iu a không ?  😙',
     desc: 'Phải trả lời thật lòng nha , nếu e tắt cái này thì đồng nghĩa với vc e từ chối  ',
     btnYes: 'Dạ e iu a lắm <33',
     btnNo: 'Không, Anh trai à :3',
